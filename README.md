@@ -36,4 +36,4 @@ OUTPUT OF THIS PROJECT EXPLANATION: The output of the "Vehicle Tracking System w
 
 CONCLUSION: In conclusion, the "Vehicle Tracking System with GPS and GSM" project successfully provides an efficient and reliable solution for real-time vehicle tracking, leveraging GPS for accurate location data and GSM for seamless communication. The system enables users to monitor vehicle movements, enhance security, and optimize fleet management through timely location updates and alerts. By integrating these technologies, the project addresses key challenges in vehicle monitoring, such as theft prevention, route optimization, and operational control. The system's flexibility, scalability, and ease of use make it a valuable tool for applications in transportation, logistics, and personal vehicle tracking. Overall, this project demonstrates the power of combining GPS and GSM technologies to create practical and cost-effective solutions for modern vehicle management.
 
-OUTPUT OF THE PROJECT:
+OUTPUT OF THE PROJECT:https://github.com/SANDUSHIVA/CODETECH-TASK2/commit/d7b33bda829b0eb0f2be650a220e42258567651b
